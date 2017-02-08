@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Set</string>
+    <string name="hello_world">Hello hindi!</string>
+    <string name="change_to_hindi">hindi</string>
+    <string name="change_to_english">english</string>
+    <string name="this_is_bad_hindi">this is bad hindi</string>
+</resources>

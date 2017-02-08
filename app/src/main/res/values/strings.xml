@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LanguageChanger</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello English!</string>
+    <string name="change_to_hindi">Change to hindi</string>
+    <string name="change_to_english">Change to english</string>
+    <string name="this_is_bad_hindi">this is english</string>
+</resources>
